@@ -14,7 +14,7 @@ class MyButton extends StatelessWidget {
           name,
           style: TextStyle(color: Colors.white),
         ),
-        color: Color(0xff746bc9),
+        color: Color(0xFF0C9869),
         onPressed: onPressed,
       ),
     );
